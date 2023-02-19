@@ -20,5 +20,5 @@ alias emacs='emacs -nw'
 starship init fish | source
 
 # Print startup message
-echo -e "\n"
-neofetch
+#echo -e "\n"
+#neofetch
